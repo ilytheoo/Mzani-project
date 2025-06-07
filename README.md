@@ -16,12 +16,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Lena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lena-gray&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Portfolio Site
 
 🔗 [Visit My Portfolio](https://lena-gray.github.io)
