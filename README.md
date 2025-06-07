@@ -1,2 +1,0 @@
-# Mzani-project
-because yes :)
