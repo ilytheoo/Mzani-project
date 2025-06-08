@@ -1,4 +1,4 @@
-# Mzani-project
+# Portfolio-site-repo
 because yes :)
 echo "# Mzani-project" >> README.md
 git init
