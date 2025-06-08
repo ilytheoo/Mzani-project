@@ -20,7 +20,7 @@ I specialize in responsive design, user-friendly layouts, and impactful branding
 
 ---
 
-## What I Built
+## What I Built:
 
 - **Personal Portfolio Website** for Lena Gray, Freelance Web Designer
 - Features a clean, responsive layout with a focus on usability and branding
@@ -30,7 +30,7 @@ I specialize in responsive design, user-friendly layouts, and impactful branding
 
 ---
 
-## What Works Now
+## What Works Now:
 
 - Fully responsive website layout for desktop and mobile
 - “About Me”, “Skills & Tools”, and “Goals” sections
@@ -41,7 +41,7 @@ I specialize in responsive design, user-friendly layouts, and impactful branding
 
 ---
 
-## What’s Next
+## What’s Next:
 
 - Add more project samples and case studies to the portfolio
 - Integrate a working contact form with email notifications
