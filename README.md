@@ -1,11 +1,15 @@
-# Hi, I'm Lena Gray! 👋
+<p align="center">
+  <img src="banner.webp" alt="Header Banner" width="100%">
+</p>
 
-🎨 I'm a **Freelance Web Designer** crafting clean, creative, and conversion-focused websites.  
-🚀 I specialize in responsive design, user-friendly layouts, and impactful branding.
+# Hi, I'm Lena Gray! 
+
+I'm a **Freelance Web Designer** crafting clean, creative, and conversion-focused websites.  
+I specialize in responsive design, user-friendly layouts, and impactful branding.
 
 ---
 
-## 🔧 Skills & Tools
+## Skills & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
@@ -16,19 +20,19 @@
 
 ---
 
-## 🌐 Portfolio Site
+## Portfolio Site
 
 🔗 [Visit My Portfolio](https://lena-gray.github.io)
 
 ---
 
-## 👁️‍🗨️ Visitor Counter
+## Visitor Counter
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=lena-gray&color=blue)
 
 ---
 
-## 💬 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lena-gray)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/lena-gray)
