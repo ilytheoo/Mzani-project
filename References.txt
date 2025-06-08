@@ -13,3 +13,5 @@ skills list, GitHub stats card, and visitor counter"
 
 6. "can you please add three more project cards that are underneath the ones that are already there"
 
+7. "going back to the readme file can you add this image as the header"
+
