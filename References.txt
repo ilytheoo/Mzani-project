@@ -1,0 +1,17 @@
+ChatGPT prompts used to generate the scenario in the ReadMe as well as the code for the website:
+1. "can you please create a scenario of a A digital portfolio site"
+
+2. "using this scenario GitHub Pages + Profile README 🌐 Deploy the website via GitHub Pages Configure deployment
+(Settings → Pages) Ensure the live site works 🧑‍💻 Write and finalize the GitHub profile README.md Include: short bio, 
+skills list, GitHub stats card, and visitor counter"
+
+3. "can you please give me the html/css for the website in one file"
+
+4. "can you add dark mode toggle, hover effects on the project card and colour gradient from light purple to dark purple on the heading"
+
+5. "can you change the links to look like the list of the skill badges"
+
+6. "can you please add three more project cards that are underneath the ones that are already there"
+
+7. "going back to the readme file can you add this image as the header"
+
