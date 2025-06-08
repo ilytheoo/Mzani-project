@@ -22,7 +22,7 @@ I specialize in responsive design, user-friendly layouts, and impactful branding
 
 ## What I Built:
 
-- **Personal Portfolio Website** for Lena Gray, Freelance Web Designer
+- **Personal Portfolio Website** 
 - Features a clean, responsive layout with a focus on usability and branding
 - Includes “About Me”, “Skills”, “Goals”, and contact/social sections
 - Built with HTML, CSS, JavaScript, and React for a modern user experience
