@@ -22,7 +22,7 @@ I specialize in responsive design, user-friendly layouts, and impactful branding
 
 ## Portfolio Site
 
-🔗 [Visit My Portfolio](https://ilytheoo.github.io/Portfolio-site-repo/)
+🔗 [Visit My Portfolio](https://ilytheoo.github.io/Portfolio-site-repo/LenaGrey.html)
 
 ---
 
