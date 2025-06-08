@@ -34,6 +34,6 @@ I specialize in responsive design, user-friendly layouts, and impactful branding
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lena-gray)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/lena-gray)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lena-gray)  
+[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/lena-gray)  
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?logo=behance&logoColor=white)](https://www.behance.net/lena-gray)
