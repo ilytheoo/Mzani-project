@@ -9,6 +9,12 @@ I specialize in responsive design, user-friendly layouts, and impactful branding
 
 ---
 
+## 👩‍💻 About Me
+
+Hello! I'm **Lena Gray**, a freelance web designer with a keen eye for detail and a love for building elegant, user-friendly websites. My approach includes responsive layouts, professional branding, and a focus on accessibility to deliver sites that truly stand out. Whether working with startups or established brands, I strive to create digital experiences that are both beautiful and effective.
+
+---
+
 ## Skills & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
