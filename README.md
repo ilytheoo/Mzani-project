@@ -52,15 +52,9 @@ I specialize in responsive design, user-friendly layouts, and impactful branding
 
 ## Useful Links
 
-- **Live Portfolio:** [LenaGrey.html](https://ilytheoo.github.io/Portfolio-site-repo/LenaGrey.html)
+- **Live Portfolio:** [Portfolio website](https://ilytheoo.github.io/Portfolio-site-repo/LenaGrey.html)
 - **Project Board:** [GitHub Project Board](https://github.com/ilytheoo/Portfolio-site-repo/projects)
 - **Repository:** [Portfolio-site-repo](https://github.com/ilytheoo/Portfolio-site-repo)
-
----
-
-## Portfolio Site
-
-🔗 [Visit My Portfolio](https://ilytheoo.github.io/Portfolio-site-repo/LenaGrey.html)
 
 ---
 
