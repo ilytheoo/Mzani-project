@@ -20,6 +20,44 @@ I specialize in responsive design, user-friendly layouts, and impactful branding
 
 ---
 
+## What I Built
+
+- **Personal Portfolio Website** for Lena Gray, Freelance Web Designer
+- Features a clean, responsive layout with a focus on usability and branding
+- Includes “About Me”, “Skills”, “Goals”, and contact/social sections
+- Built with HTML, CSS, JavaScript, and React for a modern user experience
+- Deployed via GitHub Pages
+
+---
+
+## What Works Now
+
+- Fully responsive website layout for desktop and mobile
+- “About Me”, “Skills & Tools”, and “Goals” sections
+- Social profile links (LinkedIn, Dribbble, Behance)
+- Visitor counter integration
+- Live deployment at:  
+  [https://ilytheoo.github.io/Portfolio-site-repo/LenaGrey.html](https://ilytheoo.github.io/Portfolio-site-repo/LenaGrey.html)
+
+---
+
+## What’s Next
+
+- Add more project samples and case studies to the portfolio
+- Integrate a working contact form with email notifications
+- Further improve accessibility and page performance
+- Enhance UI with some animations and interactivity
+
+---
+
+## Useful Links
+
+- **Live Portfolio:** [LenaGrey.html](https://ilytheoo.github.io/Portfolio-site-repo/LenaGrey.html)
+- **Project Board:** [GitHub Project Board](https://github.com/ilytheoo/Portfolio-site-repo/projects)
+- **Repository:** [Portfolio-site-repo](https://github.com/ilytheoo/Portfolio-site-repo)
+
+---
+
 ## Portfolio Site
 
 🔗 [Visit My Portfolio](https://ilytheoo.github.io/Portfolio-site-repo/LenaGrey.html)
