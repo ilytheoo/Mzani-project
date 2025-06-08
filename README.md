@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.webp" alt="Header Banner" width="100%">
 </p>
+
 # Hi, I'm Lena Gray! 👋
 
 🎨 I'm a **Freelance Web Designer** crafting clean, creative, and conversion-focused websites.  
